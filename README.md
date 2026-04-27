@@ -101,4 +101,4 @@ $schema = $generator->generate($data, $config);
 
 ## License
 
-MIT
+GPL v3 — see LICENSE for details

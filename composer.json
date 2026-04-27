@@ -2,7 +2,7 @@
     "name": "sentinelphp/schema",
     "description": "JSON Schema generation, merging, and validation library",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "keywords": ["json-schema", "schema", "validation", "api"],
     "homepage": "https://github.com/SentinelPHP/schema",
     "authors": [

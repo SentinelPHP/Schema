@@ -1,3 +1,5 @@
+# [Unreleased]
+- License changed from MIT to GPL v3 (2026-04-27)
 # Changelog
 
 All notable changes to this project will be documented in this file.
